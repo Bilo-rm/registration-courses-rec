@@ -1,0 +1,1508 @@
+{
+  "curriculum": [
+    {
+      "semester": 1,
+      "code": "MATH123",
+      "title": "DISCRETE MATHEMATICS",
+      "category": "FC",
+      "lecture": 3,
+      "tutorial": 1,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 5
+    },
+    {
+      "semester": 1,
+      "code": "PHYS121",
+      "title": "PHYSICS-I",
+      "category": "FC",
+      "lecture": 3,
+      "tutorial": 1,
+      "lab": 1,
+      "totalCredit": 4,
+      "prerequisites": [],
+      "ects": 5
+    },
+    {
+      "semester": 1,
+      "code": "MATH121",
+      "title": "CALCULUS-I",
+      "category": "FC",
+      "lecture": 3,
+      "tutorial": 2,
+      "lab": 0,
+      "totalCredit": 4,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 1,
+      "code": "ENGR101",
+      "title": "INFORMATION TECHNOLOGY AND APPLICATIONS",
+      "category": "FC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 1,
+      "totalCredit": 2,
+      "prerequisites": [],
+      "ects": 2
+    },
+    {
+      "semester": 1,
+      "code": "ENGR103",
+      "title": "COMPUTER PROGRAMMING-I",
+      "category": "FC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 5
+    },
+    {
+      "semester": 1,
+      "code": "ENGL121",
+      "title": "ENGLISH-I",
+      "category": "UC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 4
+    },
+    {
+      "semester": 1,
+      "code": "TUOG101",
+      "title": "/ TURK131 TURKISH LANGUAGE-I / TURKISH AS A FOREIGN LANGUAGE-I",
+      "category": "UC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 2,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 2,
+      "code": "MATH122",
+      "title": "CALCULUS-II",
+      "category": "FC",
+      "lecture": 3,
+      "tutorial": 2,
+      "lab": 0,
+      "totalCredit": 4,
+      "prerequisites": [
+        "MATH121"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 2,
+      "code": "MATH124",
+      "title": "LINEAR ALGEBRA",
+      "category": "FC",
+      "lecture": 3,
+      "tutorial": 1,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 5
+    },
+    {
+      "semester": 2,
+      "code": "PHYS122",
+      "title": "PHYSICS-II",
+      "category": "FC",
+      "lecture": 3,
+      "tutorial": 1,
+      "lab": 1,
+      "totalCredit": 4,
+      "prerequisites": [
+        "PHYS121"
+      ],
+      "ects": 5
+    },
+    {
+      "semester": 2,
+      "code": "ENGR104",
+      "title": "COMPUTER PROGRAMMING-II",
+      "category": "FC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 3,
+      "prerequisites": [
+        "ENGR103"
+      ],
+      "ects": 4
+    },
+    {
+      "semester": 2,
+      "code": "ENGL122",
+      "title": "ENGLISH-II",
+      "category": "UC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [
+        "ENGL121"
+      ],
+      "ects": 4
+    },
+    {
+      "semester": 2,
+      "code": "TARH101",
+      "title": "/ HIST111 ATATURK'S PRINCIPLES AND HISTORY OF TURKISH REFORMS-I",
+      "category": "UC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 2,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 2,
+      "code": "TUOG102",
+      "title": "/ TURK132 TURKISH LANGUAGE-II / TURKISH AS A FOREIGN LANGUAGE-II",
+      "category": "UC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 2,
+      "prerequisites": [
+        "- / TURK131"
+      ],
+      "ects": 3
+    },
+    {
+      "semester": 3,
+      "code": "ELEE211",
+      "title": "DIGITAL LOGIC DESIGN",
+      "category": "AC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 4,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 3,
+      "code": "ELEE231",
+      "title": "CIRCUIT THEORY-I AC",
+      "category": "UC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 3,
+      "code": "CMPE215",
+      "title": "ALGORITHMS AND DATA STRUCTURES",
+      "category": "AC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 1,
+      "totalCredit": 3,
+      "prerequisites": [
+        "ENGR104"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 3,
+      "code": "MATH225",
+      "title": "DIFFERENTIAL EQUATIONS FC",
+      "category": "UC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 4,
+      "prerequisites": [],
+      "ects": 4
+    },
+    {
+      "semester": 3,
+      "code": "TARH102",
+      "title": "/ HIST112 ATATURK'S PRINCIPLES AND HISTORY OF TURKISH REFORMS-II",
+      "category": "UC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 2,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 4,
+      "code": "CMPE216",
+      "title": "OBJECT ORIENTED PROGRAMMING",
+      "category": "AC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 3,
+      "prerequisites": [
+        "ENGR104"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 4,
+      "code": "CMPE232",
+      "title": "OPERATING SYSTEMS",
+      "category": "AC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [
+        "ENGR104"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 4,
+      "code": "CMPE252",
+      "title": "ANALYSIS OF ALGORITHMS",
+      "category": "AC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 4,
+      "prerequisites": [
+        "CMPE215"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 4,
+      "code": "ENGR215",
+      "title": "RESEARCH METHODS FOR ENGINEERING AND ARCHITECTURE",
+      "category": "FC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 2,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 4,
+      "code": "STAT226",
+      "title": "PROBABILITY AND STATISTICS",
+      "category": "FC",
+      "lecture": 3,
+      "tutorial": 1,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [
+        "MATH121"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 4,
+      "code": "OHSA206",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "category": "FC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 5,
+      "code": "CMPE321",
+      "title": "MICROPOCESSORS",
+      "category": "AC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 4,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 5,
+      "code": "CMPE341",
+      "title": "DATABASE SYSTEMS",
+      "category": "AC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 4,
+      "prerequisites": [
+        "CMPE215"
+      ],
+      "ects": 5
+    },
+    {
+      "semester": 5,
+      "code": "SFWE343",
+      "title": "SOFTWARE ANALYSIS AND DESIGN",
+      "category": "AC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 3,
+      "prerequisites": [
+        "CMPE216"
+      ],
+      "ects": 5
+    },
+    {
+      "semester": 5,
+      "code": "SFWE315",
+      "title": "VISUAL PROGRAMMING",
+      "category": "AC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 3,
+      "prerequisites": [
+        "CMPE216"
+      ],
+      "ects": 5
+    },
+    {
+      "semester": 6,
+      "code": "SFWE344",
+      "title": "SOFTWARE PROJECT MANAGEMENT",
+      "category": "AC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 1,
+      "totalCredit": 2,
+      "prerequisites": [
+        "SFWE343"
+      ],
+      "ects": 4
+    },
+    {
+      "semester": 6,
+      "code": "MATH328",
+      "title": "NUMERICAL ANALYSIS FC",
+      "category": "UC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 7,
+      "code": "SFWE403",
+      "title": "SUMMER TRAINING",
+      "category": "AC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 0,
+      "prerequisites": [],
+      "ects": 2
+    },
+    {
+      "semester": 7,
+      "code": "ENGR401",
+      "title": "ENGINEERING DESIGN-I",
+      "category": "FC",
+      "lecture": 1,
+      "tutorial": 2,
+      "lab": 0,
+      "totalCredit": 2,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 7,
+      "code": "SFWE415",
+      "title": "SOFTWARE ARCHITECTURE",
+      "category": "AC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 1,
+      "totalCredit": 3,
+      "prerequisites": [
+        "SFWE343"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 8,
+      "code": "SFWE411",
+      "title": "SOFTWARE VALIDATION AND TESTING",
+      "category": "AC",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 1,
+      "totalCredit": 3,
+      "prerequisites": [
+        "SFWE343"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 8,
+      "code": "ENGR402",
+      "title": "ENGINEERING DESIGN-II",
+      "category": "FC",
+      "lecture": 0,
+      "tutorial": 4,
+      "lab": 2,
+      "totalCredit": 3,
+      "prerequisites": [
+        "ENGR401"
+      ],
+      "ects": 10
+    },
+    {
+      "semester": 8,
+      "code": "ENGR404",
+      "title": "ENGINEERING ATTRIBUTES AND ETHICS",
+      "category": "FC",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 2,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 1,
+      "code": "SFWE316",
+      "title": "INTERNET AND WEB PROGRAMMING",
+      "category": "AE",
+      "lecture": 2,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 3,
+      "prerequisites": [
+        "CMPE216"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 2,
+      "code": "SFWE434",
+      "title": "CRYPTOGRAPHY AE",
+      "category": "UC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 3,
+      "code": "SFWE412",
+      "title": "SOFTWARE QUALITY ASSURANCE",
+      "category": "AE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 4,
+      "code": "SFWE422",
+      "title": "MOBILE APPLICATION DEVELOPMENT",
+      "category": "AE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 5,
+      "code": "SFWE431",
+      "title": "HUMAN-COMPUTER INTERACTION",
+      "category": "AE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 6,
+      "code": "SFWE441",
+      "title": "ADVANCE DATABASE",
+      "category": "AE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 7,
+      "code": "SFWE442",
+      "title": "OBJECT-ORIENTED PROGRAMMING LANGUAGE AND SYSTEMS AE",
+      "category": "UC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 9,
+      "code": "SFWE445",
+      "title": "RAPID APPLICATION DEVELOPMENT",
+      "category": "AE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 10,
+      "code": "SFWE451",
+      "title": "INFORMATION RETRIEVAL",
+      "category": "AE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 11,
+      "code": "SFWE467",
+      "title": "DATA MINING",
+      "category": "AE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 12,
+      "code": "SFWE475",
+      "title": "ADVANCED WEB PROGRAMMING",
+      "category": "AE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [
+        "CMPE216"
+      ],
+      "ects": 6
+    },
+    {
+      "semester": 13,
+      "code": "SFWE472",
+      "title": "COMPUTER GRAPHICS AE",
+      "category": "UC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 14,
+      "code": "SFWE474",
+      "title": "INTRODUCTION TO PARALLEL COMPUTING",
+      "category": "AE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 15,
+      "code": "CMPE431",
+      "title": "ADVANCED COMPUTER NETWORKS",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 16,
+      "code": "CMPE432",
+      "title": "WIRELESS COMMUNICATION NETWORKS",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 17,
+      "code": "CMPE433",
+      "title": "WIRELESS SENSOR NETWORKS",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 18,
+      "code": "CMPE461",
+      "title": "COMPUTING SYSTEMS FE",
+      "category": "UC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 20,
+      "code": "CMPE463",
+      "title": "CLOUD COMPUTING",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 21,
+      "code": "CMPE464",
+      "title": "ARTIFICIAL INTELLIGENCE",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 22,
+      "code": "CMPE465",
+      "title": "NEURAL NETWORKS",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 23,
+      "code": "CMPE466",
+      "title": "EXPERT SYSTEMS",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 4,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 24,
+      "code": "CHEM121",
+      "title": "CHEMISTRY FE",
+      "category": "UC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 2,
+      "prerequisites": [],
+      "ects": 2
+    },
+    {
+      "semester": 25,
+      "code": "MATH228",
+      "title": "ENGINEERING MATHEMATICS",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 1,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 26,
+      "code": "ELEE341",
+      "title": "ELECTRONICS-I",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 4,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 27,
+      "code": "ELEE331",
+      "title": "SIGNALS AND SYSTEMS",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 2,
+      "lab": 0,
+      "totalCredit": 4,
+      "prerequisites": [],
+      "ects": 6
+    },
+    {
+      "semester": 28,
+      "code": "ELEE362",
+      "title": "COMMUNICATION SYSTEMS",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 5
+    },
+    {
+      "semester": 29,
+      "code": "ELEE431",
+      "title": "DIGITAL SIGNAL PROCESSING FE",
+      "category": "UC",
+      "lecture": 0,
+      "tutorial": 0,
+      "lab": 0,
+      "totalCredit": 3,
+      "prerequisites": [],
+      "ects": 3
+    },
+    {
+      "semester": 30,
+      "code": "CMPE322",
+      "title": "DATA COMMUNICATION AND COMPUTER NETWORKS",
+      "category": "FE",
+      "lecture": 3,
+      "tutorial": 0,
+      "lab": 2,
+      "totalCredit": 4,
+      "prerequisites": [],
+      "ects": 6
+    }
+  ],
+  "completedCourses": [
+    [
+      "ENGP030S",
+      {
+        "code": "ENGP030S",
+        "title": "",
+        "grade": "P",
+        "credits": 0,
+        "ects": 0,
+        "gradePoints": 0,
+        "passed": true
+      }
+    ],
+    [
+      "ENGP070S",
+      {
+        "code": "ENGP070S",
+        "title": "",
+        "grade": "P",
+        "credits": 0,
+        "ects": 0,
+        "gradePoints": 0,
+        "passed": true
+      }
+    ],
+    [
+      "ENGL121",
+      {
+        "code": "ENGL121",
+        "title": "",
+        "grade": "C+",
+        "credits": 6.9,
+        "ects": 4,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "ENGR101",
+      {
+        "code": "ENGR101",
+        "title": "",
+        "grade": "B-",
+        "credits": 5.4,
+        "ects": 2,
+        "gradePoints": 2,
+        "passed": true
+      }
+    ],
+    [
+      "ENGR103",
+      {
+        "code": "ENGR103",
+        "title": "",
+        "grade": "B-",
+        "credits": 8.1,
+        "ects": 5,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "MATH121",
+      {
+        "code": "MATH121",
+        "title": "",
+        "grade": "C-",
+        "credits": 6.8,
+        "ects": 6,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "MATH123",
+      {
+        "code": "MATH123",
+        "title": "",
+        "grade": "B-",
+        "credits": 8.1,
+        "ects": 5,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "PHYS121F",
+      {
+        "code": "PHYS121F",
+        "title": "* (rst)",
+        "grade": "P",
+        "credits": 3,
+        "ects": 3,
+        "gradePoints": 0,
+        "passed": true
+      }
+    ],
+    [
+      "TURK131D",
+      {
+        "code": "TURK131D",
+        "title": "",
+        "grade": "P",
+        "credits": 2,
+        "ects": 3,
+        "gradePoints": 2,
+        "passed": true
+      }
+    ],
+    [
+      "ENGL122C",
+      {
+        "code": "ENGL122C",
+        "title": "",
+        "grade": "P",
+        "credits": 6,
+        "ects": 4,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "ENGR104",
+      {
+        "code": "ENGR104",
+        "title": "",
+        "grade": "A-",
+        "credits": 11.1,
+        "ects": 4,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "HIST111",
+      {
+        "code": "HIST111",
+        "title": "",
+        "grade": "C-",
+        "credits": 3.4,
+        "ects": 3,
+        "gradePoints": 2,
+        "passed": true
+      }
+    ],
+    [
+      "MATH122D",
+      {
+        "code": "MATH122D",
+        "title": "(rst)",
+        "grade": "P",
+        "credits": 3,
+        "ects": 3,
+        "gradePoints": 0,
+        "passed": true
+      }
+    ],
+    [
+      "MATH124",
+      {
+        "code": "MATH124",
+        "title": "",
+        "grade": "A-",
+        "credits": 11.1,
+        "ects": 5,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "PHYS121C",
+      {
+        "code": "PHYS121C",
+        "title": "",
+        "grade": "P",
+        "credits": 8,
+        "ects": 5,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "TURK132C",
+      {
+        "code": "TURK132C",
+        "title": "(rst)",
+        "grade": "P",
+        "credits": 3,
+        "ects": 3,
+        "gradePoints": 0,
+        "passed": true
+      }
+    ],
+    [
+      "CMPE215B",
+      {
+        "code": "CMPE215B",
+        "title": "",
+        "grade": "P",
+        "credits": 9,
+        "ects": 6,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "ELEC211B",
+      {
+        "code": "ELEC211B",
+        "title": "",
+        "grade": "P",
+        "credits": 12,
+        "ects": 6,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "HIST112",
+      {
+        "code": "HIST112",
+        "title": "",
+        "grade": "C-",
+        "credits": 3.4,
+        "ects": 3,
+        "gradePoints": 2,
+        "passed": true
+      }
+    ],
+    [
+      "MATH225",
+      {
+        "code": "MATH225",
+        "title": "",
+        "grade": "D+",
+        "credits": 5.2,
+        "ects": 5,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "MGMT101C",
+      {
+        "code": "MGMT101C",
+        "title": "(rst)",
+        "grade": "P",
+        "credits": 3,
+        "ects": 3,
+        "gradePoints": 0,
+        "passed": true
+      }
+    ],
+    [
+      "PHYS122C",
+      {
+        "code": "PHYS122C",
+        "title": "(rst)",
+        "grade": "P",
+        "credits": 3,
+        "ects": 3,
+        "gradePoints": 0,
+        "passed": true
+      }
+    ],
+    [
+      "CMPE216",
+      {
+        "code": "CMPE216",
+        "title": "",
+        "grade": "A-",
+        "credits": 11.1,
+        "ects": 6,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "CMPE252",
+      {
+        "code": "CMPE252",
+        "title": "",
+        "grade": "C+",
+        "credits": 9.2,
+        "ects": 6,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "ELEE231",
+      {
+        "code": "ELEE231",
+        "title": "",
+        "grade": "A-",
+        "credits": 14.8,
+        "ects": 6,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "OHSA206",
+      {
+        "code": "OHSA206",
+        "title": "",
+        "grade": "B+",
+        "credits": 9.9,
+        "ects": 3,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "STAT226B",
+      {
+        "code": "STAT226B",
+        "title": "",
+        "grade": "P",
+        "credits": 9,
+        "ects": 6,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "BUSN101",
+      {
+        "code": "BUSN101",
+        "title": "",
+        "grade": "D+",
+        "credits": 3.9,
+        "ects": 5,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "CMPE321",
+      {
+        "code": "CMPE321",
+        "title": "",
+        "grade": "D+",
+        "credits": 5.2,
+        "ects": 6,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "CMPE341",
+      {
+        "code": "CMPE341",
+        "title": "",
+        "grade": "B+",
+        "credits": 13.2,
+        "ects": 5,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "ELEE341",
+      {
+        "code": "ELEE341",
+        "title": "",
+        "grade": "C-",
+        "credits": 6.8,
+        "ects": 5,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "SFWE315",
+      {
+        "code": "SFWE315",
+        "title": "",
+        "grade": "C-",
+        "credits": 5.1,
+        "ects": 5,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "SFWE343B",
+      {
+        "code": "SFWE343B",
+        "title": "",
+        "grade": "P",
+        "credits": 9,
+        "ects": 5,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "AINE334B",
+      {
+        "code": "AINE334B",
+        "title": "",
+        "grade": "P",
+        "credits": 9,
+        "ects": 5,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "CMPE232",
+      {
+        "code": "CMPE232",
+        "title": "",
+        "grade": "B+",
+        "credits": 9.9,
+        "ects": 6,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "CMPE322B",
+      {
+        "code": "CMPE322B",
+        "title": "",
+        "grade": "P",
+        "credits": 12,
+        "ects": 5,
+        "gradePoints": 4,
+        "passed": true
+      }
+    ],
+    [
+      "ITAL101B",
+      {
+        "code": "ITAL101B",
+        "title": "",
+        "grade": "P",
+        "credits": 9,
+        "ects": 4,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "MATH328",
+      {
+        "code": "MATH328",
+        "title": "",
+        "grade": "C+",
+        "credits": 6.9,
+        "ects": 6,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ],
+    [
+      "SFWE316",
+      {
+        "code": "SFWE316",
+        "title": "",
+        "grade": "A-",
+        "credits": 11.1,
+        "ects": 6,
+        "gradePoints": 3,
+        "passed": true
+      }
+    ]
+  ],
+  "availableCourses": [
+    {
+      "code": "CMPE215",
+      "title": "CMPE215"
+    },
+    {
+      "code": "CVLE215",
+      "title": "CVLE215"
+    },
+    {
+      "code": "MATH121",
+      "title": "MATH121"
+    },
+    {
+      "code": "MATH122",
+      "title": "MATH122"
+    },
+    {
+      "code": "CHEM121",
+      "title": "CHEM121"
+    },
+    {
+      "code": "ELEE231",
+      "title": "ELEE231"
+    },
+    {
+      "code": "ENGR103",
+      "title": "ENGR103"
+    },
+    {
+      "code": "ENGR104",
+      "title": "ENGR104"
+    },
+    {
+      "code": "CMPE341",
+      "title": "CMPE341"
+    },
+    {
+      "code": "MATH225",
+      "title": "MATH225"
+    },
+    {
+      "code": "ELEE211",
+      "title": "ELEE211"
+    },
+    {
+      "code": "ELEE431",
+      "title": "ELEE431"
+    },
+    {
+      "code": "MATH123",
+      "title": "MATH123"
+    },
+    {
+      "code": "ELEE351",
+      "title": "ELEE351"
+    },
+    {
+      "code": "ELEE341",
+      "title": "ELEE341"
+    },
+    {
+      "code": "ENGR404",
+      "title": "ENGR404"
+    },
+    {
+      "code": "ENGR401",
+      "title": "ENGR401"
+    },
+    {
+      "code": "ENGR402",
+      "title": "ENGR402"
+    },
+    {
+      "code": "CVLE351",
+      "title": "CVLE351"
+    },
+    {
+      "code": "AINE201",
+      "title": "AINE201"
+    },
+    {
+      "code": "ENGR101",
+      "title": "ENGR101"
+    },
+    {
+      "code": "CVLE311",
+      "title": "CVLE311"
+    },
+    {
+      "code": "MATH124",
+      "title": "MATH124"
+    },
+    {
+      "code": "AINE413",
+      "title": "AINE413"
+    },
+    {
+      "code": "CVLE223",
+      "title": "CVLE223"
+    },
+    {
+      "code": "CMPE321",
+      "title": "CMPE321"
+    },
+    {
+      "code": "PHYS121",
+      "title": "PHYS121"
+    },
+    {
+      "code": "PHYS122",
+      "title": "PHYS122"
+    },
+    {
+      "code": "CMPE421",
+      "title": "CMPE421"
+    },
+    {
+      "code": "CVLE415",
+      "title": "CVLE415"
+    },
+    {
+      "code": "ELEE241",
+      "title": "ELEE241"
+    },
+    {
+      "code": "ELEE331",
+      "title": "ELEE331"
+    },
+    {
+      "code": "SFWE343",
+      "title": "SFWE343"
+    },
+    {
+      "code": "SFWE415",
+      "title": "SFWE415"
+    },
+    {
+      "code": "SFWE411",
+      "title": "SFWE411"
+    },
+    {
+      "code": "CVLE341",
+      "title": "CVLE341"
+    },
+    {
+      "code": "CVLE417",
+      "title": "CVLE417"
+    },
+    {
+      "code": "CVLE226",
+      "title": "CVLE226"
+    },
+    {
+      "code": "SFWE403",
+      "title": "SFWE403"
+    },
+    {
+      "code": "CMPE403",
+      "title": "CMPE403"
+    },
+    {
+      "code": "CVLE403",
+      "title": "CVLE403"
+    },
+    {
+      "code": "ELEE403",
+      "title": "ELEE403"
+    },
+    {
+      "code": "AINE403",
+      "title": "AINE403"
+    },
+    {
+      "code": "CVLE237",
+      "title": "CVLE237"
+    },
+    {
+      "code": "SFWE315",
+      "title": "SFWE315"
+    },
+    {
+      "code": "MATH309",
+      "title": "MATH309"
+    },
+    {
+      "code": "COMP333",
+      "title": "COMP333"
+    },
+    {
+      "code": "COMP352",
+      "title": "COMP352"
+    },
+    {
+      "code": "COMP471",
+      "title": "COMP471"
+    },
+    {
+      "code": "SOFT412",
+      "title": "SOFT412"
+    },
+    {
+      "code": "COMP216",
+      "title": "COMP216"
+    },
+    {
+      "code": "CVLE314",
+      "title": "CVLE314"
+    },
+    {
+      "code": "CVLE316",
+      "title": "CVLE316"
+    }
+  ],
+  "studentInfo": {},
+  "timestamp": "2025-08-18T08:49:11.842Z"
+}
